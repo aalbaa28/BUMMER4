@@ -1,0 +1,62 @@
+GET https://mastodon.social/api/v1/accounts/lookup?acct=aalbaa28
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-14T231738.200.json
+
+###
+
+GET https://mastodon.social/api/v1/apps/verify_credentials
+Authorization: Bearer pTaYEYrGkC1h0wATbUfyeOi9wwK_5i3ZTT598HCKbdQ
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-14T231735.200.json
+
+###
+
+GET https://mastodon.social/api/v1/accounts/lookup?acct=aalbaa28
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-14T231024.200.json
+
+###
+
+GET https://mastodon.social/api/v1/accounts/lookup?acct=aalbaa28
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-14T230804.200.json
+
+###
+
+GET https://mastodon.social/api/v1/accounts/lookup?acct=aalbaa28
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-14T225610.200.json
+
+###
+
+GET https://mastodon.social/api/v1/apps/verify_credentials
+Authorization: Bearer pTaYEYrGkC1h0wATbUfyeOi9wwK_5i3ZTT598HCKbdQ
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-14T225338.200.json
+
+###
+
